@@ -9,3 +9,4 @@
 *.key
 *.pyc
 .credentials
+*.npz
