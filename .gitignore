@@ -1,0 +1,11 @@
+*.pdf
+*.png
+*.npy
+*.cdf
+*.csv
+*.pkl
+*.zip
+*.tmp
+*.key
+*.pyc
+.credentials
